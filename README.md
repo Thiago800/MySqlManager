@@ -1,4 +1,4 @@
-# MySqlManager
+# MySql Manager
 
 ## Dependências
 
